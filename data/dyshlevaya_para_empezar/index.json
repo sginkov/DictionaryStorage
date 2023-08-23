@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "supportedLangs":["es","ru"],
+    "collections": [
+        {
+            "name": "professions",
+            "titles": {
+                "es": "Profesiones",
+                "ru": "Профессии"
+            },
+            "path":{
+                "relative": true,
+                "value": "professions.json"
+            }
+        }
+    ]
+}    

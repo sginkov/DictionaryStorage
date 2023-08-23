@@ -1,0 +1,22 @@
+[
+    {"es":"un estudante", "ru":"студент"},
+    {"es":"un profesor", "ru":"преподаватель"},
+    {"es":"un medico", "ru":"врач"},
+    {"es":"un cantante", "ru":"певец"},
+    {"es":"un arquitecto", "ru":"архитектор"},
+    {"es":"un cirujano", "ru":"хирург"},
+    {"es":"un obrero", "ru":"рабочий"},
+    {"es":"un periodista", "ru":"журналист"},
+    {"es":"un secretario", "ru":"секретарь"},
+    {"es":"un escritor", "ru":"писатель"},
+    {"es":"un maestro", "ru":"учитель"},
+    {"es":"un empleado", "ru":"служащий"},
+    {"es":"un peluquero", "ru":"парикмахер"},
+    {"es":"un abogado", "ru":"адвокат"},
+    {"es":"un camarero", "ru":"официант"},
+    {"es":"un intérprete", "ru":"переводчик"},
+    {"es":"un ingeniero", "ru":"инжерер"},
+    {"es":"un pintor", "ru":"художник"},
+    {"es":"un alumno", "ru":"ученик"},
+    {"es":"un enfermero", "ru":"медбрат"}
+]
