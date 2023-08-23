@@ -1,5 +1,5 @@
 [
-    {"es":"un estudante", "ru":"студент"},
+    {"es":"un estudiante", "ru":"студент"},
     {"es":"un profesor", "ru":"преподаватель"},
     {"es":"un medico", "ru":"врач"},
     {"es":"un cantante", "ru":"певец"},
@@ -15,7 +15,7 @@
     {"es":"un abogado", "ru":"адвокат"},
     {"es":"un camarero", "ru":"официант"},
     {"es":"un intérprete", "ru":"переводчик"},
-    {"es":"un ingeniero", "ru":"инжерер"},
+    {"es":"un ingeniero", "ru":"инженер"},
     {"es":"un pintor", "ru":"художник"},
     {"es":"un alumno", "ru":"ученик"},
     {"es":"un enfermero", "ru":"медбрат"}
