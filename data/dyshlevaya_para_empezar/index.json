@@ -8,6 +8,7 @@
                 "es": "Profesiones",
                 "ru": "Профессии"
             },
+            "count": "20",
             "path":{
                 "relative": true,
                 "value": "professions.json"
