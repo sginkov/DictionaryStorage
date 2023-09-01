@@ -2,8 +2,8 @@
     "info": {
         "version": "1.0.1",
         "name": "Дышлевая для начинающих",
-        "primaryLanguage": ["ru"],
-        "learningLanguage": ["es"]
+        "primaryLanguages": ["ru"],
+        "learningLanguages": ["es"]
     },
     "collections": [
         {
