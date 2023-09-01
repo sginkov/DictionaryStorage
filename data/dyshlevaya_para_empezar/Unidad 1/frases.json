@@ -39,5 +39,5 @@
     {"es":"perdona", "ru":"извини", "punctuation": "."},
     {"es":"perdone", "ru":"извините", "punctuation": "."},
     {"es":"lo siento", "ru":"сожалею", "punctuation": "."},
-    {"es":"no pasa nada", "ru":"ничего страшного", "punctuation": ".", "notes": {"ru": "Достовно: Ничего не происходит"}}
+    {"es":"no pasa nada", "ru":"ничего страшного", "punctuation": ".", "notes": {"ru": "Дословно: Ничего не происходит"}}
 ]
