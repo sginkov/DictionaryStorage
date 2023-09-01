@@ -1,17 +1,69 @@
 {
-    "version": "1.0.0",
-    "supportedLangs":["es","ru"],
+    "info": {
+        "version": "1.0.0",
+        "name": "Дышлевая для начинающих",
+        "primaryLanguage": "ru",
+        "learningLanguage": "es"
+    },
     "collections": [
         {
-            "name": "professions",
+            "name": "un1",
+            "type": "folder",
             "titles": {
-                "es": "Profesiones",
-                "ru": "Профессии"
+                "es": "Unidad 1",
+                "ru": "Раздел 1"
             },
-            "count": 20,
             "path":{
                 "relative": true,
-                "value": "professions.json"
+                "value": "Unidad 1/index.json"
+            }
+        },
+        {
+            "name": "un2",
+            "type": "folder",
+            "titles": {
+                "es": "Unidad 2",
+                "ru": "Раздел 2"
+            },
+            "path":{
+                "relative": true,
+                "value": "Unidad 2/index.json"
+            }
+        },
+        {
+            "name": "un3",
+            "type": "folder",
+            "titles": {
+                "es": "Unidad 3",
+                "ru": "Раздел 3"
+            },
+            "path":{
+                "relative": true,
+                "value": "Unidad 3/index.json"
+            }
+        },
+        {
+            "name": "un4",
+            "type": "folder",
+            "titles": {
+                "es": "Unidad 4",
+                "ru": "Раздел 4"
+            },
+            "path":{
+                "relative": true,
+                "value": "Unidad 4/index.json"
+            }
+        },
+        {
+            "name": "un5",
+            "type": "folder",
+            "titles": {
+                "es": "Unidad 5",
+                "ru": "Раздел 5"
+            },
+            "path":{
+                "relative": true,
+                "value": "Unidad 5/index.json"
             }
         }
     ]

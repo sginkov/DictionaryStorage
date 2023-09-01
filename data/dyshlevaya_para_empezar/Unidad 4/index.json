@@ -1,0 +1,28 @@
+{
+    "collections": [
+        {
+            "name": "pronombres_adjetivos_posesivos",
+            "titles": {
+                "es": "Pronombres adjetivos posesivos",
+                "ru": "Притяжательные местоимения-прилагательные"
+            },
+            "count": 16,
+            "path":{
+                "relative": true,
+                "value": "pronombres_adjetivos_posesivos.json"
+            }
+        },
+        {
+            "name": "la_familia",
+            "titles": {
+                "es": "La Familia",
+                "ru": "Семья"
+            },
+            "count": 51,
+            "path":{
+                "relative": true,
+                "value": "la_familia.json"
+            }
+        }
+    ]
+}    

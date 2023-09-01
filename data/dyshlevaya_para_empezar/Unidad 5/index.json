@@ -1,0 +1,52 @@
+{
+    "collections": [
+        {
+            "name": "adjetivos",
+            "titles": {
+                "es": "Adjetivos",
+                "ru": "Местоимения"
+            },
+            "count": 17,
+            "path":{
+                "relative": true,
+                "value": "adjetivos.json"
+            }
+        },
+        {
+            "name": "tiempo",
+            "titles": {
+                "es": "Tiempo",
+                "ru": "Время"
+            },
+            "count": 36,
+            "path":{
+                "relative": true,
+                "value": "tiempo.json"
+            }
+        },
+        {
+            "name": "lexico",
+            "titles": {
+                "es": "Lexico",
+                "ru": "Лексика"
+            },
+            "count": 16,
+            "path":{
+                "relative": true,
+                "value": "lexico.json"
+            }
+        },
+        {
+            "name": "colores",
+            "titles": {
+                "es": "Colores",
+                "ru": "Цвета"
+            },
+            "count": 16,
+            "path":{
+                "relative": true,
+                "value": "colores.json"
+            }
+        }
+    ]
+}    

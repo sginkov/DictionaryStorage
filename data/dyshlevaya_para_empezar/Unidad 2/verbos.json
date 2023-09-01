@@ -1,0 +1,21 @@
+[
+    {"es":"hablar", "ru":"говорить"},
+    {"es":"comer", "ru":"есть"},
+    {"es":"vivir", "ru":"жить"},
+    {"es":"trabajar", "ru":"работать"},
+    {"es":"estudiar", "ru":"изучать"},
+    {"es":"descansar", "ru":"отдыхать"},
+    {"es":"fumar", "ru":"курить"},
+    {"es":"bailar", "ru":"танцевать"},
+    {"es":"cantar", "ru":"петь"},
+    {"es":"escuchar", "ru":"слушать"},
+    {"es":"beber", "ru":"пить"},
+    {"es":"leer", "ru":"читать"},
+    {"es":"creer", "ru":"думать/верить"},
+    {"es":"comprar", "ru":"покупать"},
+    {"es":"vender", "ru":"продавать"},
+    {"es":"escribir", "ru":"писать"},
+    {"es":"abrir", "ru":"открывать"},
+    {"es":"hacer", "ru":"делать"},
+    {"es":"compartir", "ru":"разделять (мнение/еду)"}
+]

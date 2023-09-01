@@ -1,0 +1,15 @@
+[
+    {"es":"tabien", "ru":"тоже"},
+    {"es":"tampoco", "ru":"тоже но"},
+    {"es":"qué", "ru":"что", "pinctuation": "?"},
+    {"es":"por qué", "ru":"почему", "pinctuation": "?"},
+    {"es":"para qué", "ru":"для чего", "pinctuation": "?"},
+    {"es":"bastante", "ru":"достаточно"},
+    {"es":"mucho", "ru":"много"},
+    {"es":"poco", "ru":"мало"},
+    {"es":"ademas", "ru":"кроме того"},
+    {"es":"entonces", "ru":"тогда"},
+    {"es":"ahore", "ru":"сейчас"},
+    {"es":"todavía", "ru":"все еще"},
+    {"es":"aún", "ru":"все еще"},
+]

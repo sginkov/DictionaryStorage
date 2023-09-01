@@ -1,0 +1,52 @@
+{
+    "collections": [
+        {
+            "name": "numerales",
+            "titles": {
+                "es": "Numerales cardinales",
+                "ru": "Количественные числительные"
+            },
+            "count": 46,
+            "path":{
+                "relative": true,
+                "value": "numerales.json"
+            }
+        },
+        {
+            "name": "los_datos_personales",
+            "titles": {
+                "es": "Los datos personales",
+                "ru": "Персональные данные"
+            },
+            "count": 29,
+            "path":{
+                "relative": true,
+                "value": "los_datos_personales.json"
+            }
+        },
+        {
+            "name": "los_meses_del_ano",
+            "titles": {
+                "es": "Los meses del año",
+                "ru": "Месяца года"
+            },
+            "count": 16,
+            "path":{
+                "relative": true,
+                "value": "los_meses_del_ano.json"
+            }
+        },
+        {
+            "name": "tener_expresiones.json",
+            "titles": {
+                "es": "Expresiones con TENER",
+                "ru": "Выражения с глаголом ИМЕТЬ"
+            },
+            "count": 11,
+            "path":{
+                "relative": true,
+                "value": "tener_expresiones.json"
+            }
+        }
+    ]
+}    

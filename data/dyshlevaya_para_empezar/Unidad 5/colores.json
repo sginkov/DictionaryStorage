@@ -1,0 +1,22 @@
+[
+    {"es":"de qué color es", "ru":"какого это цвета", "pinctuation": "?"},
+    {"es":"es color gris", "ru":"это серого цвета", "pinctuation": "."},
+    {"es":"de qué color son", "ru":"какого они цвета", "pinctuation": "?"},
+    {"es":"cuál es tu color preferido", "ru":"какой твой любимый цвет", "pinctuation": "?"},
+    {"es":"mi color preferido es rojo", "ru":"мой любимый цвет - красный", "pinctuation": "."},
+    {"es":"amarillo", "ru":"желтый"},
+    {"es":"azul", "ru":"голубой/синий"},
+    {"es":"negro", "ru":"черный"},
+    {"es":"marrón", "ru":"коричневый"},
+    {"es":"verde", "ru":"зеленый"},
+    {"es":"oscuro", "ru":"темный"},
+    {"es":"claro", "ru":"светлый"},
+    {"es":"rojo", "ru":"красный"},
+    {"es":"blanco", "ru":"белый"},
+    {"es":"gris", "ru":"серый"},
+    {"es":"violeta", "ru":"фиолетовый"},
+    {"es":"rosado", "ru":"розовый"},
+    {"es":"rojo oscuro", "ru":"темно-красный"},
+    {"es":"marrón claro", "ru":"светло-коричневый"},
+    {"es":"entre amarillo y verde", "ru":"желто-зеленый"}
+]
