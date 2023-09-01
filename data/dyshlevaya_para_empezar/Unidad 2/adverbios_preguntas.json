@@ -1,9 +1,9 @@
 [
     {"es":"tabien", "ru":"тоже"},
     {"es":"tampoco", "ru":"тоже но"},
-    {"es":"qué", "ru":"что", "pinctuation": "?"},
-    {"es":"por qué", "ru":"почему", "pinctuation": "?"},
-    {"es":"para qué", "ru":"для чего", "pinctuation": "?"},
+    {"es":"qué", "ru":"что", "punctuation": "?"},
+    {"es":"por qué", "ru":"почему", "punctuation": "?"},
+    {"es":"para qué", "ru":"для чего", "punctuation": "?"},
     {"es":"bastante", "ru":"достаточно"},
     {"es":"mucho", "ru":"много"},
     {"es":"poco", "ru":"мало"},
