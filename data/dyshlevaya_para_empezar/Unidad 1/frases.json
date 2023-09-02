@@ -33,7 +33,7 @@
     {"es":"сómo te llamas", "ru":"как тебя зовут", "punctuation": "?"},
     {"es":"сómo se llama usted", "ru":"как Вас зовут", "punctuation": "?"},
     {"es":"сómo se llaman ellos", "ru":"как их зовут", "punctuation": "?"},
-    {"es":"a qué te dedicas", "ru":"чем ты занимаешься?", "punctuation": "?"},
+    {"es":"a qué te dedicas", "ru":"чем ты занимаешься", "punctuation": "?"},
     {"es":"а qué se dedica usted", "ru":"чем Вы занимаетесь", "punctuation": "?"},
     {"es":"bueno", "ru":"ладно, ну", "punctuation": "."},
     {"es":"perdona", "ru":"извини", "punctuation": "."},
