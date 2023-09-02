@@ -11,8 +11,8 @@
     {"es":"tus", "ru":"твои"},
     {"es":"sus", "ru":"его/ее/Ваши"},
     {"es":"nuestros", "ru":"наши"},
-    {"es":"nuestras", "ru":"наши", "notes": {"ru": "(женский род)"}},
+    {"es":"nuestras", "ru":"наши", "notes": {"ru": "женский род"}},
     {"es":"vuestros", "ru":"ваши"},
-    {"es":"vuestras", "ru":"ваши", "notes": {"ru": "(женский род)"}},
+    {"es":"vuestras", "ru":"ваши", "notes": {"ru": "женский род"}},
     {"es":"sus", "ru":"Ваши"}
 ]
