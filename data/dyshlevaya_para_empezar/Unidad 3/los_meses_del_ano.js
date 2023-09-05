@@ -14,5 +14,5 @@
     {"es":"septiembre", "ru":"сентябрь"},
     {"es":"octubre", "ru":"октябрь"},
     {"es":"noviembre", "ru":"ноябрь"},
-    {"es":"diciembre", "ru":"декабрь"},
+    {"es":"diciembre", "ru":"декабрь"}
 ]
