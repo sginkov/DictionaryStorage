@@ -6,7 +6,6 @@
                 "es": "Сonjugación de verbos",
                 "ru": "Спряжение глаголов"
             },
-            "count": 24,
             "path":{
                 "relative": true,
                 "value": "conjugacion.json"
@@ -18,7 +17,6 @@
                 "es": "Аdverbios y preguntas",
                 "ru": "Наречия и вопрося"
             },
-            "count": 13,
             "path":{
                 "relative": true,
                 "value": "adverbios_preguntas.json"
@@ -30,7 +28,6 @@
                 "es": "Verbos",
                 "ru": "Глаголы"
             },
-            "count": 19,
             "path":{
                 "relative": true,
                 "value": "verbos.json"
@@ -42,7 +39,6 @@
                 "es": "Expresiones con ESTAR",
                 "ru": "Выражения с глаголом НАХОДИТЬСЯ"
             },
-            "count": 14,
             "path":{
                 "relative": true,
                 "value": "estar_expresiones.json"

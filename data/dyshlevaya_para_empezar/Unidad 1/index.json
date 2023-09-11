@@ -6,7 +6,6 @@
                 "es": "Pronombes personales",
                 "ru": "Личные местоимения"
             },
-            "count": 12,
             "path":{
                 "relative": true,
                 "value": "pronombes.json"
@@ -18,7 +17,6 @@
                 "es": "Sustantivos",
                 "ru": "Существительные"
             },
-            "count": 51,
             "path":{
                 "relative": true,
                 "value": "sustantivos.json"
@@ -30,7 +28,6 @@
                 "es": "Adjetivos",
                 "ru": "Прилагательные"
             },
-            "count": 22,
             "path":{
                 "relative": true,
                 "value": "adjetivos.json"
@@ -42,7 +39,6 @@
                 "es": "Profesiones",
                 "ru": "Профессии"
             },
-            "count": 20,
             "path":{
                 "relative": true,
                 "value": "profesiones.json"
@@ -50,12 +46,10 @@
         },
         {
             "name": "frases",
-            "contentType": "phrase",
             "titles": {
                 "es": "Frases",
                 "ru": "Фразы"
             },
-            "count": 41,
             "path":{
                 "relative": true,
                 "value": "frases.json"

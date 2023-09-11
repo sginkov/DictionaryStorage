@@ -6,7 +6,6 @@
                 "es": "Adjetivos",
                 "ru": "Местоимения"
             },
-            "count": 17,
             "path":{
                 "relative": true,
                 "value": "adjetivos.json"
@@ -18,7 +17,6 @@
                 "es": "Tiempo",
                 "ru": "Время"
             },
-            "count": 36,
             "path":{
                 "relative": true,
                 "value": "tiempo.json"
@@ -30,7 +28,6 @@
                 "es": "Lexico",
                 "ru": "Лексика"
             },
-            "count": 16,
             "path":{
                 "relative": true,
                 "value": "lexico.json"
@@ -42,7 +39,6 @@
                 "es": "Colores",
                 "ru": "Цвета"
             },
-            "count": 16,
             "path":{
                 "relative": true,
                 "value": "colores.json"

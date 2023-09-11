@@ -6,7 +6,6 @@
                 "es": "Numerales cardinales",
                 "ru": "Количественные числительные"
             },
-            "count": 46,
             "path":{
                 "relative": true,
                 "value": "numerales.json"
@@ -18,7 +17,6 @@
                 "es": "Los datos personales",
                 "ru": "Персональные данные"
             },
-            "count": 29,
             "path":{
                 "relative": true,
                 "value": "los_datos_personales.json"
@@ -30,7 +28,6 @@
                 "es": "Los meses del año",
                 "ru": "Месяца года"
             },
-            "count": 16,
             "path":{
                 "relative": true,
                 "value": "los_meses_del_ano.json"
@@ -42,7 +39,6 @@
                 "es": "Expresiones con TENER",
                 "ru": "Выражения с глаголом ИМЕТЬ"
             },
-            "count": 11,
             "path":{
                 "relative": true,
                 "value": "tener_expresiones.json"
